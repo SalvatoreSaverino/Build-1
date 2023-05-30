@@ -306,3 +306,13 @@ nascondere il menu a discesa come stato predefinito: */
     padding: 0 1rem;
 }
 
+footer .social{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer p {
+    text-align: center;
+    padding: 1rem 0;
+    font-size: .8rem;
+}
